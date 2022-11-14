@@ -5,8 +5,5 @@ hello git dsd
 hello git dsd
 hello git dsd
 hello git dsd
-<<<<<<< HEAD
 hello git dsd master
-=======
 hello git dsd hot-fix
->>>>>>> hot-fix
